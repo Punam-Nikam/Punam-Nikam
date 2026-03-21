@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Punam Nikam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;MCA+Student;Backend+Development+Enthusiast;DSA+Learner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;MCA+Student;Backend+Development+Enthusiast;DSA+Learner;Future+Software+Developer" />
 </p>
 
 ---
@@ -52,28 +52,13 @@ Responsive and modern websites using HTML, CSS, JavaScript, and React.
 
 ---
 
-<!-- ANIMATED GITHUB STATS -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <!-- CURRENTLY LEARNING -->
 ## 📚 Currently Learning
 
-- Data Structures and Algorithms in Java  
-- Backend Development  
+- Data Structures and Algorithms in Java
+- Spring Framework
+- Spring boot
+- Advanve Backend Development  
 - Advanced Java  
 - Problem Solving for Placements  
 
