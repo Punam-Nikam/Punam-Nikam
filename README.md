@@ -13,8 +13,7 @@
 - 🎓 MCA Student passionate about Software Development  
 - 💻 Aspiring **Java Developer** focused on Backend Development  
 - 🧠 Currently learning **Data Structures and Algorithms in Java**  
-- 🚀 Building real-world projects to improve coding and problem-solving skills  
-- 🎯 Goal: High-paying Software Developer role  
+- 🚀 Building real-world projects to improve coding and problem-solving skills    
 
 ---
 
