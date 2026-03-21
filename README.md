@@ -39,14 +39,46 @@
 <!-- PROJECTS -->
 ## 🔥 Featured Projects
 
-### 🌱 Plant Disease Detection System
-Machine Learning project that detects plant diseases using image processing.
+### 🤖 Machine Learning Project
+-Web application that detects plant diseases from leaf images and provides accurate results to the user.
+
+**Key Features**
+- Image upload and disease prediction
+- Backend developed using Flask
+- Integration of Machine Learning model
+- User-friendly web interface
+
+**Technologies Used**
+Python, Machine Learning, Flask, HTML, CSS, JavaScript,react
+
+---
 
 ### 💻 Java Projects
-Core Java + OOP concept based projects for strong logic building.
+A collection of Java-based projects focused on Object-Oriented Programming and strong logical problem solving.
+
+**Projects Included**
+- Calculator using Java GUI
+- File Handling Projects
+- OOP Concept-Based Mini Projects
+- Notepad like editor
+- Spring boot system
+
+**Technologies Used**
+Java, OOP Concepts, File Handling, Basic GUI,swing,spring boot
+
+---
 
 ### 🌐 Web Development Projects
-Responsive and modern websites using HTML, CSS, JavaScript, and React.
+Responsive and modern websites built to improve frontend and full-stack development skills.
+
+**Projects Included**
+- Personal Portfolio Website
+- Responsive Landing Pages
+- JavaScript-based mini projects
+- UI-focused web pages
+
+**Technologies Used**
+HTML, CSS, JavaScript, React,etc
 
 ---
 
@@ -56,9 +88,8 @@ Responsive and modern websites using HTML, CSS, JavaScript, and React.
 - Data Structures and Algorithms in Java
 - Spring Framework
 - Spring boot
-- Advanve Backend Development  
-- Advanced Java  
-- Problem Solving for Placements  
+- Advanced Web developement
+- NodeJs,TypeScript,Express,NextJs
 
 ---
 
