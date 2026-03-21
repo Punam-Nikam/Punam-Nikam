@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- HEADER ANIMATION -->
 <h1 align="center">Hi 👋, I'm Punam Nikam</h1>
 
