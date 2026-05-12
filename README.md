@@ -59,7 +59,7 @@
 - User-friendly web interface
 
 **Technologies Used**
-Python, Machine Learning, Flask, HTML, CSS, JavaScript,react
+Python, Machine Learning, Flask, HTML, CSS, JavaScript,react,MySQL 
 
 ---
 
@@ -88,7 +88,7 @@ Responsive and modern websites built to improve frontend and full-stack developm
 - UI-focused web pages
 
 **Technologies Used**
-HTML, CSS, JavaScript, React,etc
+HTML, CSS, JavaScript, TypeScipt
 
 ---
 
