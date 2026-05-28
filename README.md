@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;MCA+Student;Backend+Development+Enthusiast;DSA+Learner;Future+Software+Developer" />
 </p>
 
----
+--- 
 
 <!-- ABOUT ME -->
 ## 💫 About Me
