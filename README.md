@@ -32,6 +32,7 @@ public class Developer {
         System.out.println("Learn → Build → Improve → Repeat");
     }
 }
+<div>
 ---
 
 ## 👩‍💻 About Me
@@ -46,7 +47,7 @@ public class Developer {
 - 🚀 Always learning, building, and improving  
 
 ---
-
+</div>
 ## ⚙️ Tech Stack
 
 ☕ Java  🌱 Spring Boot  🐍 Python  
@@ -55,7 +56,6 @@ public class Developer {
 🔧 Git 🐙 GitHub  
 💻 VS Code  
 
----
 ---
 
 ## 📊 GitHub Stats
