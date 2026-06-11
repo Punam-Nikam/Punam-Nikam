@@ -10,7 +10,6 @@
 
 ## 👩‍💻 About Me
 
-```java
 public class Developer {
 
     String name = "Punam Nikam";
@@ -30,6 +29,7 @@ public class Developer {
         System.out.println("Learn → Build → Improve → Repeat");
     }
 }
+
 ---
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
