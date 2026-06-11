@@ -10,6 +10,12 @@
 
 ## 👩‍💻 About Me
 
+---
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
+
+---
+
 public class Developer {
 
     String name = "Punam Nikam";
@@ -32,8 +38,6 @@ public class Developer {
 
 ---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
-
 - ☕ Passionate about Java and Backend Development  
 - 🌱 Currently learning Spring Boot and REST APIs  
 - 🧠 Practicing Data Structures & Algorithms in Java  
@@ -50,20 +54,10 @@ public class Developer {
 🗄️ MySQL 🍃 MongoDB  
 🔧 Git 🐙 GitHub  
 💻 VS Code  
+Intellij IDEA
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Punam-Nikam&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punam-Nikam&layout=compact&hide_border=true"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
