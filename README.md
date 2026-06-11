@@ -22,6 +22,7 @@ backend development, and system design skills.
 
 </div>
 
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216656986-ef584e23-c76b-4eb4-a216-7e0c8c3f0d8.gif">
 ---
 
 ## 👨‍💻 About Me
