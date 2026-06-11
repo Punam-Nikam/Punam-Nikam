@@ -12,6 +12,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
 
+
 public class Developer {
 
     String name = "Punam Nikam";
@@ -32,6 +33,7 @@ public class Developer {
     }
 }
 
+
 ---
 
 - ☕ Passionate about Java and Backend Development  
@@ -45,12 +47,11 @@ public class Developer {
 
 ## ⚙️ Tech Stack
 
-☕ Java  🌱 Spring Boot  🐍 Python  
-⚛️ React  🌐 HTML CSS JavaScript  
-🗄️ MySQL 🍃 MongoDB  
-🔧 Git 🐙 GitHub  
-💻 VS Code  
-Intellij IDEA
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,html,css,js,mysql,mongodb,git,github,vscode,idea" />
+
+</p>
 
 ---
 
