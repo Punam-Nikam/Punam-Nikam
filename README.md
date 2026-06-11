@@ -10,7 +10,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/2IudUHdI075HL02P1Z/giphy.gif" />
+<!-- 👇 ONLY CHANGE DONE: replaced boy GIF with girl coder -->
+<img align="right" width="320" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
 
 ```java
 public class Developer {
