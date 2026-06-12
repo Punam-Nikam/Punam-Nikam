@@ -83,6 +83,6 @@ public class Developer {
 <div align="center">
 
 ✨ Clean Code • Strong Logic • Continuous Learning ✨
-                 Never Give Up !!
+<div>            Never Give Up !!  </div>
 
 </div>
