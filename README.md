@@ -73,7 +73,7 @@ public class Developer {
 </a>
 
 <a href="https://www.hackerrank.com/profile/punamnikam_835">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
