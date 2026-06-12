@@ -24,8 +24,8 @@ public class Developer {
         "Backend Development",
         "Java Development",
         "Data Structures & Algorithms",
-        "Database Management",
-        "System Design Basics"
+        "Spring Boot",
+        "Database Management"
     };
 
     void mindset() {
